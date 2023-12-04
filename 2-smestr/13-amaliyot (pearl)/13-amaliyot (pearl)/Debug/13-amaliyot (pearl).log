@@ -1,0 +1,15 @@
+﻿Построение начато 06.06.2023 18:13:22.
+     1>Проект "C:\Users\Lenovo\Desktop\VS C++\13-amaliyot (pearl)\13-amaliyot (pearl)\13-amaliyot (pearl).vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\13-amaliyot (pearl).pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.DataVisualization.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib "13-amaliyot (pearl).cpp"
+         13-amaliyot (pearl).cpp
+     1>c:\users\lenovo\desktop\vs c++\13-amaliyot (pearl)\13-amaliyot (pearl)\Form1.h(140): error C2065: chart2: необъявленный идентификатор
+     1>c:\users\lenovo\desktop\vs c++\13-amaliyot (pearl)\13-amaliyot (pearl)\Form1.h(140): error C2227: выражение слева от "->Series" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+                 тип: 'unknown-type'
+     1>c:\users\lenovo\desktop\vs c++\13-amaliyot (pearl)\13-amaliyot (pearl)\Form1.h(140): error C2227: выражение слева от "->Points" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+     1>c:\users\lenovo\desktop\vs c++\13-amaliyot (pearl)\13-amaliyot (pearl)\Form1.h(140): error C2227: выражение слева от "->AddXY" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+     1>Построение проекта "C:\Users\Lenovo\Desktop\VS C++\13-amaliyot (pearl)\13-amaliyot (pearl)\13-amaliyot (pearl).vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:00.53

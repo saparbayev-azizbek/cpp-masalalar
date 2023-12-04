@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11-amaliyot 7-misol", "11-amaliyot 7-misol\11-amaliyot 7-misol.vcxproj", "{2AFDD49D-E632-4CC8-80F9-9E81AECD961C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AFDD49D-E632-4CC8-80F9-9E81AECD961C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2AFDD49D-E632-4CC8-80F9-9E81AECD961C}.Debug|Win32.Build.0 = Debug|Win32
+		{2AFDD49D-E632-4CC8-80F9-9E81AECD961C}.Release|Win32.ActiveCfg = Release|Win32
+		{2AFDD49D-E632-4CC8-80F9-9E81AECD961C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
